@@ -1,5 +1,5 @@
-Link to github pages = https://github.com/Paradox05/HW6
-Link to repository = https://github.com/Paradox05/HW6
+Link to github pages = https://paradox05.github.io/HW7/
+Link to repository = https://github.com/Paradox05/HW7
 
 NOTE: I am using one of the Late Homework Tokens
 
